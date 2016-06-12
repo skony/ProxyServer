@@ -1,0 +1,2 @@
+onet.pl
+wp.pl
